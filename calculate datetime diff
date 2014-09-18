@@ -27,3 +27,4 @@ echo "<pre>";
 print_r($sec);
 echo "</pre>";
 exit;
+?>
